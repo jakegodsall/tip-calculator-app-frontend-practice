@@ -1,0 +1,23 @@
+{
+    "name": "tip-calculator-app-frontend-practice",
+    "version": "1.0.0",
+    "description": "![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)",
+    "main": "index.js",
+    "scripts": {
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jakegodsall/tip-calculator-app-frontend-practice.git"
+    },
+    "author": "Jake Godsall <jake.edward.godsall@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jakegodsall/tip-calculator-app-frontend-practice/issues"
+    },
+    "homepage": "https://github.com/jakegodsall/tip-calculator-app-frontend-practice#readme",
+    "devDependencies": {
+        "webpack": "^5.75.0",
+        "webpack-cli": "^5.0.0"
+    }
+}
